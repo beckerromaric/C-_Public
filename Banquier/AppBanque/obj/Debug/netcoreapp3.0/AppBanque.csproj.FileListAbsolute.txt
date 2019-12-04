@@ -1,0 +1,14 @@
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.exe
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.deps.json
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.runtimeconfig.json
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.runtimeconfig.dev.json
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.dll
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\AppBanque.pdb
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\Banquier.dll
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\bin\Debug\netcoreapp3.0\Banquier.pdb
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.csprojAssemblyReference.cache
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.AssemblyInfoInputs.cache
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.AssemblyInfo.cs
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.csproj.CopyComplete
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.dll
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\AppBanque\obj\Debug\netcoreapp3.0\AppBanque.pdb

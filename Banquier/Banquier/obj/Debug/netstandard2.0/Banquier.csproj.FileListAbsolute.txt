@@ -1,0 +1,8 @@
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\bin\Debug\netstandard2.0\Banquier.deps.json
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\bin\Debug\netstandard2.0\Banquier.dll
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\bin\Debug\netstandard2.0\Banquier.pdb
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\obj\Debug\netstandard2.0\Banquier.csprojAssemblyReference.cache
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\obj\Debug\netstandard2.0\Banquier.AssemblyInfoInputs.cache
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\obj\Debug\netstandard2.0\Banquier.AssemblyInfo.cs
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\obj\Debug\netstandard2.0\Banquier.dll
+C:\Users\CRM\OneDrive\RomaricB\Code\C-\Banquier\Banquier\obj\Debug\netstandard2.0\Banquier.pdb

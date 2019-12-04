@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Version>1.0.1</Version>
+    <PackageLicenseExpression>CopyRight BeckerR</PackageLicenseExpression>
+    <FileVersion>1.0.1.1</FileVersion>
+    <AssemblyVersion>1.0.1.1</AssemblyVersion>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <StartupObject>AppBanque.Program</StartupObject>
+    <SignAssembly>false</SignAssembly>
+    <Description>Application de simulation de gestion de compte et banque simpliste.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banquier\Banquier.csproj" />
+  </ItemGroup>
+
+</Project>
