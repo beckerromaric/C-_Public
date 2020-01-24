@@ -179,25 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CRM\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Bjormi\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj",
+      "projectUniqueName": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
       "projectName": "Banquier",
-      "projectPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj",
-      "packagesPath": "C:\\Users\\CRM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\obj\\",
+      "projectPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
+      "packagesPath": "C:\\Users\\Bjormi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\CRM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bjormi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

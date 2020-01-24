@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\AppBanque\\AppBanque.csproj": {}
+    "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\AppBanque\\AppBanque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\AppBanque\\AppBanque.csproj": {
+    "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\AppBanque\\AppBanque.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\AppBanque\\AppBanque.csproj",
+        "projectUniqueName": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\AppBanque\\AppBanque.csproj",
         "projectName": "AppBanque",
-        "projectPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\AppBanque\\AppBanque.csproj",
-        "packagesPath": "C:\\Users\\CRM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\AppBanque\\obj\\",
+        "projectPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\AppBanque\\AppBanque.csproj",
+        "packagesPath": "C:\\Users\\Bjormi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\AppBanque\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\CRM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bjormi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj": {
-                "projectPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj"
+              "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj": {
+                "projectPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj"
               }
             }
           }
@@ -65,21 +64,20 @@
         }
       }
     },
-    "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj": {
+    "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj",
+        "projectUniqueName": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
         "projectName": "Banquier",
-        "projectPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\Banquier.csproj",
-        "packagesPath": "C:\\Users\\CRM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRM\\OneDrive\\RomaricB\\Code\\C-\\Banquier\\Banquier\\obj\\",
+        "projectPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
+        "packagesPath": "C:\\Users\\Bjormi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\CRM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bjormi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
