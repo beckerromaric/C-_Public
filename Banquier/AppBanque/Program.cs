@@ -42,7 +42,7 @@ namespace AppBanque
 
                     switch (choix)
                     {   //Case pour créer un compte(récupération de la saisie utilisateur dans des variables pour les assigner au constructeur 
-                        //de la classse Compte (le numéro de compte est crée aléatoirement) qz.
+                        //de la classse Compte (le numéro de compte est crée aléatoirement).
                         case ConsoleKey.NumPad1:
 
                             Console.WriteLine("\nVeuillez saisir votre nom");
