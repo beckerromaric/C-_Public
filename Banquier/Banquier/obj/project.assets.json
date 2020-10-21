@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bjormi\\.nuget\\packages\\": {},
+    "C:\\Users\\Rbeck\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
+      "projectUniqueName": "C:\\OneDrive\\Bureau\\Dev\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
       "projectName": "Banquier",
-      "projectPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
-      "packagesPath": "C:\\Users\\Bjormi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bjormi\\Desktop\\C-_Public\\Banquier\\Banquier\\obj\\",
+      "projectPath": "C:\\OneDrive\\Bureau\\Dev\\C-_Public\\Banquier\\Banquier\\Banquier.csproj",
+      "packagesPath": "C:\\Users\\Rbeck\\.nuget\\packages\\",
+      "outputPath": "C:\\OneDrive\\Bureau\\Dev\\C-_Public\\Banquier\\Banquier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bjormi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rbeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -237,7 +237,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

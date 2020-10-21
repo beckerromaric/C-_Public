@@ -17,7 +17,7 @@ namespace Banquier
         {
             Random numAlea = new Random();
             this.numero = numAlea.Next(100000000, 999999999);
-            this.nomClient = "compte par defaut";
+            this.nomClient = "Compte par defaut";
             this.Solde = 0;
             this.DecouvertAutorise = 0;
         }
